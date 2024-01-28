@@ -42,7 +42,8 @@ body{
 }
 
 .apresentacao{
-    padding: 5% 0% 5% 0%;    
+    padding: 5% 0% 5% 0%;
+    width: 50%;    
     display: flex;
     align-items: center;
     justify-content: center;
@@ -120,7 +121,7 @@ body{
         padding: 5%;
     }
 
-    .apresentacao__conteudo{
+    .apresentacao__conteudo{+
         width: auto;
     }
 }
